@@ -1,0 +1,22 @@
+body {
+	margin:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.section {
+    padding: 80px 20px;
+}
+
+.section h2{
+	text-align:center;
+	margin-bottom:40px;
+	font-weight:600;
+}
