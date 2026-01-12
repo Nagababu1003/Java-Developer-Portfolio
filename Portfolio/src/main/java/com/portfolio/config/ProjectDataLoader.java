@@ -18,7 +18,7 @@ public class ProjectDataLoader {
 				  repo.save(new Project("Personal Portfolio Website",
 				  "A Responsive Personal Portfolio Website Using Java"
 				  ,"Java Spring Boot,H2 Database,BootStrap",
-				  "https://github.com/username/projectname","/images/java portfolio.png"));
+				  "https://github.com/Nagababu1003/Java-Developer-Portfolio","/images/java portfolio.png"));
 				  
 				  repo.save(new Project("Personal Portfolio Website",
 					"A Personal Portfolio Website using web development",
