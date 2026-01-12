@@ -18,12 +18,12 @@ public class ProjectDataLoader {
 				  repo.save(new Project("Personal Portfolio Website",
 				  "A Responsive Personal Portfolio Website Using Java"
 				  ,"Java Spring Boot,H2 Database,BootStrap",
-				  "https://github.com/Nagababu1003/Java-Developer-Portfolio","/images/java portfolio.png"));
+				  "https://github.com/Nagababu1003/Java-Developer-Portfolio","/images/Java Portfolio.png"));
 				  
 				  repo.save(new Project("Personal Portfolio Website",
 					"A Personal Portfolio Website using web development",
 					"HTML, CSS, JavaScript",
-					"https://github.com/Nagababu1003/personal-portfolio","/images/portfolio.png"));
+					"https://github.com/Nagababu1003/personal-portfolio","/images/Portfolio.png"));
 				  
 				  repo.save(new Project("Student Management System",
 				  "Curd Application to Manage student results and operations","Java,Spring Boot,JPA, MySQL",
