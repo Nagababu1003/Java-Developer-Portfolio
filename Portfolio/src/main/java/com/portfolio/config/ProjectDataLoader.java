@@ -26,7 +26,7 @@ public class ProjectDataLoader {
 				  
 				  repo.save(new Project("Personal Portfolio Website",
 						"A Personal Portfolio Website using web development",
-						"HTML5, CSS3, JavaScript, Vercel, GitHub",
+						"HTML5, CSS3, JavaScript, Vercel, GitHub, JSON",
 						"https://github.com/Nagababu1003/personal-portfolio","/images/Portfolio.png","https://nagababu-portfolio.vercel.app/"));
 				  
 				  
