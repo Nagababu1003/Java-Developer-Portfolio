@@ -18,20 +18,21 @@ public class Project {
 	private String techStack;
 	private String githubLink;
 	private String imageUrl;
-	
+	private String visitLink;
 	
 	public Project() {
 		
 	}
 
 
-	public Project(String name, String description, String techStack, String githubLink, String imageUrl) {
+	public Project(String name, String description, String techStack, String githubLink, String imageUrl,String visitLink) {
 		super();
 		this.name = name;
 		this.description = description;
 		this.techStack = techStack;
 		this.githubLink = githubLink;
 		this.imageUrl = imageUrl;
+		this.visitLink = visitLink;
 	}
 	
 	
