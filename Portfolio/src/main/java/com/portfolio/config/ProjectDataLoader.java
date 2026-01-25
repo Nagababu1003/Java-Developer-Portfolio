@@ -19,15 +19,16 @@ public class ProjectDataLoader {
 				  "A Responsive Personal Portfolio Website Using Java"
 				  ,"Java Spring Boot,H2 Database,BootStrap",
 				  "https://github.com/Nagababu1003/Java-Developer-Portfolio","/images/Java Portfolio.png"));
+
+				  repo.save(new Project("AI Chatbot Using Spring Boot & OpenAI",
+					  "Developed a full-stack AI chatbot application.","JJava 21, Spring Boot, Spring AI, OpenAI API, and React",
+					  "https://github.com/Nagababu1003/AI-Chatbot","/images/chatbot.png"));
 				  
 				  repo.save(new Project("Personal Portfolio Website",
-					"A Personal Portfolio Website using web development",
-					"HTML, CSS, JavaScript",
-					"https://github.com/Nagababu1003/personal-portfolio","/images/Portfolio.png"));
+						"A Personal Portfolio Website using web development",
+						"HTML, CSS, JavaScript",
+						"https://github.com/Nagababu1003/personal-portfolio","/images/Portfolio.png"));
 				  
-				  repo.save(new Project("Student Management System",
-				  "Curd Application to Manage student results and operations","Java,Spring Boot,JPA, MySQL",
-				  "https://github.com/username/projectname","/images/student.jpeg"));
 				  
 				  repo.save(new Project("Simon Says Game Using JavaScript ",
 				  "A Classic Electronic Memory Game helps to improve concentration","HTML, CSS, JavaScript",
