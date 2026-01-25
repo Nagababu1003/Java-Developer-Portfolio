@@ -17,7 +17,7 @@ public class ProjectDataLoader {
 				
 				  repo.save(new Project("Personal Portfolio Website",
 				  "A Responsive Personal Portfolio Website Using Java"
-				  ,"Java Spring Boot,H2 Database,BootStrap",
+				  ,"Java,Spring Boot,H2 Database, HTML/CSS, JavaScript, BootStrap",
 				  "https://github.com/Nagababu1003/Java-Developer-Portfolio","/images/Java Portfolio.png","https://java-developer-portfolio.onrender.com/"));
 
 				  repo.save(new Project("AI Chatbot Using Spring AI",
@@ -26,7 +26,7 @@ public class ProjectDataLoader {
 				  
 				  repo.save(new Project("Personal Portfolio Website",
 						"A Personal Portfolio Website using web development",
-						"HTML, CSS, JavaScript",
+						"HTML5, CSS3, JavaScript, Vercel, GitHub",
 						"https://github.com/Nagababu1003/personal-portfolio","/images/Portfolio.png","https://nagababu-portfolio.vercel.app/"));
 				  
 				  
