@@ -18,21 +18,21 @@ public class ProjectDataLoader {
 				  repo.save(new Project("Personal Portfolio Website",
 				  "A Responsive Personal Portfolio Website Using Java"
 				  ,"Java Spring Boot,H2 Database,BootStrap",
-				  "https://github.com/Nagababu1003/Java-Developer-Portfolio","/images/Java Portfolio.png"));
+				  "https://github.com/Nagababu1003/Java-Developer-Portfolio","/images/Java Portfolio.png","https://java-developer-portfolio.onrender.com/"));
 
-				  repo.save(new Project("AI Chatbot Using Spring Boot & OpenAI",
-					  "Developed a full-stack AI chatbot application.","JJava 21, Spring Boot, Spring AI, OpenAI API, and React",
-					  "https://github.com/Nagababu1003/AI-Chatbot","/images/chatbot.png"));
+				  repo.save(new Project("AI Chatbot Using Spring AI",
+					  "Developed a full-stack AI chatbot application.","Java 21, Spring Boot, Spring AI, OpenAI and React",
+					  "https://github.com/Nagababu1003/AI-Chatbot","/images/chatbot.png","https://ai-chatbot-1-zoe0.onrender.com/"));
 				  
 				  repo.save(new Project("Personal Portfolio Website",
 						"A Personal Portfolio Website using web development",
 						"HTML, CSS, JavaScript",
-						"https://github.com/Nagababu1003/personal-portfolio","/images/Portfolio.png"));
+						"https://github.com/Nagababu1003/personal-portfolio","/images/Portfolio.png","https://nagababu-portfolio.vercel.app/"));
 				  
 				  
 				  repo.save(new Project("Simon Says Game Using JavaScript ",
 				  "A Classic Electronic Memory Game helps to improve concentration","HTML, CSS, JavaScript",
-				  "https://github.com/Nagababu1003/Simon-Says-Game","/images/simon.png"));
+				  "https://github.com/Nagababu1003/Simon-Says-Game","/images/simon.png","https://simon-says-game-puce-ten.vercel.app/"));
 				 
 				/*
 				 * Project project1=new Project("Personal Portfolio Website",
